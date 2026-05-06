@@ -1,4 +1,5 @@
 {
+  "name": "app-expo",
   "license": "0BSD",
   "main": "index.js",
   "scripts": {
